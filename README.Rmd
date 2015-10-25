@@ -1,0 +1,16 @@
+---
+title: "Coursera course project"
+author: "Sean O'Donnell"
+date: "10/25/2015"
+output: html_document
+---
+##Getting and Cleaning Data - Course Project
+This is the location of the course project for getting and cleaning data
+
+#Description of files
+run_analysis.R contains all the code to perform the steps in the course project
+
+
+CodeBook.md describes the variables
+
+the output is uploaded to data.txt
